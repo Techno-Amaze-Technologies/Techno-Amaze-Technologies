@@ -53,7 +53,7 @@ We specialize in:
 We love collaborating with **developers, learners, and startups**.  
 If you’re passionate about tech, learning, or innovation, connect with us!
 
-📧 **Email:** technomazeofficial@gmail.com  
+📧 **Email:** info@technoamaze.in  
 🌐 **Website:** [https://technoamaze.in](https://technoamaze.in) *(example — replace with your actual domain)*  
 💼 **LinkedIn:** [Techno Amaze Technologies](https://linkedin.com/company/technoamaze) *(update link)*  
 
